@@ -4,3 +4,5 @@ For it to work you need to get your cookie key from Buff
 Run ArbEngine -> Select what item -> Compares Steam VS Buff Prices
 
 Uses Python, transaction conversion included.
+
+My first little project.
