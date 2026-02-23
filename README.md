@@ -3,9 +3,4 @@ It is likely to be very unoptimized/imperfect, but this is to test my skills and
 For it to work you need to get your cookie key from Buff
 Run ArbEngine -> Select what item -> Compares Steam VS Buff Prices
 
-
-
-
-# Cross-Market-Arbitrage-CSGO
-# Cross-Market-Arbitrage-CSGO
-# Cross-Market-Arbitrage-CSGO
+Uses Python, transaction conversion included.
